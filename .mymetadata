@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="immoc_sh"
+  id="myeclipse.1455779768366"
+  context-root="/immoc_sh"
+  j2ee-spec="6.0"
+  archive="immoc_sh.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
